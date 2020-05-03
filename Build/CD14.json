@@ -1,0 +1,15 @@
+{
+"companyName": "FreekLabs",
+"productName": "GenieUs",
+"productVersion": "2.0",
+"dataUrl": "CD14.data.unityweb",
+"wasmCodeUrl": "CD14.wasm.code.unityweb",
+"wasmFrameworkUrl": "CD14.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.2f1"
+}
